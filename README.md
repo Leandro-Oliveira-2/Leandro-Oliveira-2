@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Oi eu sou a Leandro Oliveira, Engenheiro de Software!
 
 <div style="display: inline_block"><br>
