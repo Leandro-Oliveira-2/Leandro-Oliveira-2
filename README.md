@@ -31,7 +31,7 @@
 
 <div>
   <img align="center" alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img align="center" alt="NestJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" title="NestJS">
+  <img align="center" alt="NestJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS">
   <img align="center" alt="Fastify" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" title="Fastify">
   <img align="center" alt="TypeScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
