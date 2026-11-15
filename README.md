@@ -9,6 +9,7 @@
   <a href="https://leandro-oliveira-2.github.io"><img src="https://img.shields.io/badge/Portfólio-1ed760?style=for-the-badge&logo=googlechrome&logoColor=0a0c0b" alt="Portfólio"/></a>
   <a href="https://www.linkedin.com/in/leandro-oliveira-807b4a240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://wa.me/5583991339338?text=Ol%C3%A1%2C%20Leandro!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:leandrooliveira@sistemica.org.br"><img src="https://img.shields.io/badge/E--mail-0a0c0b?style=for-the-badge&logo=gmail&logoColor=1ed760" alt="E-mail: leandrooliveira@sistemica.org.br"/></a>
   <a href="https://leandro-oliveira-2.github.io/curriculo-leandro-oliveira-pt.pdf"><img src="https://img.shields.io/badge/Currículo%20(PDF)-0a0c0b?style=for-the-badge" alt="Currículo em PDF"/></a>
 </p>
 
@@ -90,6 +91,6 @@
 
 **What I deliver:** AI customer service agents in code (Claude, OpenAI, function calling, multimodal, human-in-the-loop) · official WhatsApp Cloud API integrations · automations that end manual work · scalable Node.js / TypeScript / React / Next.js / PostgreSQL systems, from requirements to production.
 
-➡️ Portfolio: **[leandro-oliveira-2.github.io/en](https://leandro-oliveira-2.github.io/en/)** · [Résumé (PDF)](https://leandro-oliveira-2.github.io/resume-leandro-oliveira-en.pdf) · [LinkedIn](https://www.linkedin.com/in/leandro-oliveira-807b4a240/)
+➡️ Portfolio: **[leandro-oliveira-2.github.io/en](https://leandro-oliveira-2.github.io/en/)** · [Résumé (PDF)](https://leandro-oliveira-2.github.io/resume-leandro-oliveira-en.pdf) · [LinkedIn](https://www.linkedin.com/in/leandro-oliveira-807b4a240/) · [leandrooliveira@sistemica.org.br](mailto:leandrooliveira@sistemica.org.br)
 
 </details>
