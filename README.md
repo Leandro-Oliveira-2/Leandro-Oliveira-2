@@ -1,101 +1,95 @@
 <h1 align="center">Olá, eu sou o Leandro Oliveira 👋</h1>
-<h3 align="center">Engenheiro de Software Full Stack Sênior | AWS, Next.js e NestJS</h3>
+<h3 align="center">Engenheiro de Software Sênior · IA aplicada</h3>
 
 <p align="center">
-  Full Stack com 5 anos de experiência no desenvolvimento, modernização e sustentação de aplicações web,
-  sistemas governamentais críticos, plataformas de analytics e soluções de automação. Perfil end-to-end —
-  da descoberta e prototipagem à entrega — com foco em AWS, escalabilidade, performance e qualidade de código.
+  <b>Transformo a operação do seu negócio com IA que funciona de verdade:</b> agentes escritos em código que atendem, decidem e resolvem pelo WhatsApp, automações que acabam com o trabalho manual e sistemas que aguentam escala.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-oliveira-807b4a240" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="https://leandro-oliveira-2.github.io"><img src="https://img.shields.io/badge/Portfólio-1ed760?style=for-the-badge&logo=googlechrome&logoColor=0a0c0b" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/leandro-oliveira-807b4a240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5583991339338?text=Ol%C3%A1%2C%20Leandro!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20uma%20oportunidade."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://leandro-oliveira-2.github.io/curriculo-leandro-oliveira-pt.pdf"><img src="https://img.shields.io/badge/Currículo%20(PDF)-0a0c0b?style=for-the-badge" alt="Currículo em PDF"/></a>
 </p>
 
-<br>
+<p align="center"><a href="#english">🇺🇸 English version below</a></p>
 
-## 🚀 Sobre mim
+## ⚡ Prova em produção
 
-- 🔭 Atualmente atuando como **Engenheiro de Software Sênior** na **HarmonizaPRO** e na **Keek Inteligência**
-- 🛠️ Forte atuação com **TypeScript, Node.js/NestJS, React/Next.js**, APIs, bancos SQL e NoSQL, Docker e ambientes cloud
-- 🏗️ Experiência em **liderança técnica**, migração de aplicações legadas para Next.js, arquitetura de soluções, CI/CD, observabilidade e operação de sistemas em produção
-- 🎓 Bacharel em Sistemas de Informação pela **UFPB**, com ênfase em engenharia de software, arquitetura de sistemas e sistemas distribuídos
-- 🌱 Sempre explorando boas práticas de Clean Architecture, Design Patterns e performance
+| | |
+|---|---|
+| **1M+** mensagens processadas no WhatsApp com agentes de IA | **0,03%** de falha de envio (antes 0,67%) |
+| **7 → 152** números de WhatsApp ativos em 5 meses | **Meta Tech Provider**: conduzi a certificação |
+| **3 estados** (PB, PE e AL) usando o sistema que liderei | **5+ anos** construindo e operando sistemas em produção |
 
-<br>
+## 🛠️ O que eu entrego
 
-## 🧰 Tech Stack
+- **Atendimento com IA que não dorme:** agentes em código com Claude e OpenAI, function calling, entrada de áudio e imagem e aprovação humana quando a decisão é sensível.
+- **WhatsApp oficial sem dor de cabeça:** WhatsApp Cloud API, Embedded Signup, campanhas com templates e webhooks que não perdem mensagens.
+- **Adeus, trabalho manual:** automações em código que eliminam retrabalho e planilhas. Para fluxos simples, n8n.
+- **Sistemas que aguentam escala:** Node.js, TypeScript, React e Next.js com PostgreSQL, do levantamento ao deploy e ao monitoramento.
 
-**Backend & APIs**
+## 📂 Cases
 
-<div>
-  <img align="center" alt="NodeJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img align="center" alt="NestJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="NestJS">
-  <img align="center" alt="Fastify" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" title="Fastify">
-  <img align="center" alt="TypeScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
-  <img align="center" alt="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
-  <img align="center" alt="Java" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
-  <img align="center" alt="Spring" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">
-  <img align="center" alt="Python" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-</div>
+- **HarmonizaChat:** plataforma de atendimento e CRM sobre a API oficial do WhatsApp, com agentes de IA. 1M+ mensagens, 193 mil respondidas pela IA.
+- **[Plansanet](https://plansanet.sistemica.org.br/):** fui o **líder técnico** da plataforma em que estados e municípios elaboram seus Planos de Segurança Alimentar e Nutricional. Migração Angular → React + TypeScript e MySQL → PostgreSQL, além de um editor colaborativo em tempo real.
+- **[VLibras](https://vlibras.gov.br):** ferramenta pública do Governo Federal que traduz português para Libras com avatar 3D. Desenvolvi os serviços de conversão de mídia que geram os vídeos do avatar.
+- **[Este portfólio](https://github.com/Leandro-Oliveira-2/Leandro-Oliveira-2.github.io):** Next.js + TypeScript, conteúdo tipado em PT e EN, 41 testes e deploy contínuo no GitHub Pages.
 
-**Frontend & UX**
+➡️ Detalhes, números e linha do tempo completa em **[leandro-oliveira-2.github.io](https://leandro-oliveira-2.github.io)**.
 
-<div>
-  <img align="center" alt="React" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="NextJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js">
-  <img align="center" alt="Angular" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular">
-  <img align="center" alt="VueJS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js">
-  <img align="center" alt="Vite" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" title="Vite">
-  <img align="center" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="MaterialUI" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="Material UI">
-  <img align="center" alt="Figma" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma">
-</div>
+## 🧰 Stack
 
-**Cloud, DevOps & Observabilidade**
-
-<div>
-  <img align="center" alt="AWS" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS">
-  <img align="center" alt="Docker" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
-  <img align="center" alt="Grafana" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana">
-  <img align="center" alt="Git" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-</div>
-
-**Dados & Integrações**
-
-<div>
-  <img align="center" alt="PostgreSQL" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-  <img align="center" alt="MongoDB" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="NoSQL">
-  <img align="center" alt="Firebase" height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase / Firestore">
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<!--
-  Troque "SEU-USUARIO-GITHUB" pelo seu usuário real do GitHub nos dois links abaixo
-  para os cartões carregarem corretamente.
--->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0a0c0b?style=for-the-badge&logo=typescript&logoColor=1ed760" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-0a0c0b?style=for-the-badge&logo=nodedotjs&logoColor=1ed760" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-0a0c0b?style=for-the-badge&logo=nestjs&logoColor=1ed760" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Next.js-0a0c0b?style=for-the-badge&logo=nextdotjs&logoColor=1ed760" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-0a0c0b?style=for-the-badge&logo=react&logoColor=1ed760" alt="React"/>
+  <img src="https://img.shields.io/badge/Prisma-0a0c0b?style=for-the-badge&logo=prisma&logoColor=1ed760" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0c0b?style=for-the-badge&logo=postgresql&logoColor=1ed760" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-0a0c0b?style=for-the-badge&logo=supabase&logoColor=1ed760" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Claude-0a0c0b?style=for-the-badge&logo=anthropic&logoColor=1ed760" alt="Anthropic Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI-0a0c0b?style=for-the-badge" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-0a0c0b?style=for-the-badge&logo=whatsapp&logoColor=1ed760" alt="WhatsApp Cloud API"/>
+  <img src="https://img.shields.io/badge/Docker-0a0c0b?style=for-the-badge&logo=docker&logoColor=1ed760" alt="Docker"/>
+  <img src="https://img.shields.io/badge/n8n-0a0c0b?style=for-the-badge&logo=n8n&logoColor=1ed760" alt="n8n"/>
 </p>
 
-<br>
+<sub>Também já usei: Angular, Vue.js, Spring Boot, Java, Fastify, MySQL, Firebase, AWS, Grafana.</sub>
 
-## 🏆 Experiência recente
+## 🏆 Experiência
 
 | Empresa | Cargo | Período |
 |---|---|---|
-| **HarmonizaPRO** | Engenheiro de Software Sênior | Mai 2026 – Atual |
-| **Keek Inteligência** | Engenheiro de Software Sênior | Fev 2025 – Atual |
-| **Fundação Sistêmica** | Full Stack / Co-Lead Técnico | 2021 – Jan 2026 |
+| **HarmonizaPRO** | Engenheiro de Software Sênior | Abr 2026 – Atual |
+| **Keek Inteligência Analítica** | Engenheiro de Software | Fev 2025 – Atual |
+| **Fundação Sistêmica** | Líder Técnico e Desenvolvedor Full Stack | Fev 2021 – Nov 2026 |
+| **VIVA Móveis.COM** | Desenvolvedor Full Stack (estágio) | Abr 2024 – Set 2024 |
+| **LAVID / UFPB · VLibras** | Desenvolvedor Full Stack (estágio) | Jul 2022 – Jun 2024 |
+| **ServiceNet Tecnologia** | Desenvolvedor Full Stack (estágio) | Ago 2023 – Jan 2024 |
 
-<br>
+🎓 Bacharelado em Sistemas de Informação, UFPB (2021 – 2025)
 
-<p align="center">
-  <i>Feito com foco em código limpo, arquitetura modular e entrega contínua.</i>
-</p>
+
+---
+
+<a id="english"></a>
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+### Senior Software Engineer · Applied AI
+
+**I transform how your business operates with AI that actually works:** agents written in code that answer, decide and resolve over WhatsApp, automations that end manual work and systems that scale.
+
+**Proven in production**
+- **1M+** WhatsApp messages processed with AI agents, with a **0.03%** send failure rate (down from 0.67%)
+- **7 → 152** active WhatsApp numbers in 5 months, plus the company's **Meta Tech Provider** certification, which I led
+- **Technical lead** of [Plansanet](https://plansanet.sistemica.org.br/), the food security planning platform used by **3 Brazilian states**
+- Worked on [VLibras](https://vlibras.gov.br), the Brazilian Federal Government's Portuguese → Sign Language translator
+
+**What I deliver:** AI customer service agents in code (Claude, OpenAI, function calling, multimodal, human-in-the-loop) · official WhatsApp Cloud API integrations · automations that end manual work · scalable Node.js / TypeScript / React / Next.js / PostgreSQL systems, from requirements to production.
+
+➡️ Portfolio: **[leandro-oliveira-2.github.io/en](https://leandro-oliveira-2.github.io/en/)** · [Résumé (PDF)](https://leandro-oliveira-2.github.io/resume-leandro-oliveira-en.pdf) · [LinkedIn](https://www.linkedin.com/in/leandro-oliveira-807b4a240/)
+
+</details>
